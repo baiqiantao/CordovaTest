@@ -1,0 +1,2 @@
+# CordovaTest
+通过Cordova默认案例生成的Android项目源码
